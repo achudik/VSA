@@ -1,7 +1,4 @@
-
-import net.useobjects.draw.drawable.GroupView;
-import net.useobjects.draw.drawable.TextView;
-
+tu som zmazal
 //Digitalne zobrazenie
 public class Ciselnik {
 	private TextView text;
